@@ -12,8 +12,8 @@
 <img src="images/sch.svg" alt="Schematic" height="500"><br>
 <p><em>Schematic</em></p>
 
-<img src="images/pcbf.svg" alt="Footprint Front" height="500">
-<img src="images/pcbb.svg" alt="Footprint Back" height="500"><br>
+<img src="images/pcbf.png" alt="Footprint Front" height="500">
+<img src="images/pcbb.png" alt="Footprint Back" height="500"><br>
 <p><em>Footprint</em></p>
 
 </div>
