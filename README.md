@@ -1,20 +1,19 @@
-# 4in-powersim
+# Power Sim Module Repository
 
-**Repo for the power sim module**
+[![Use Export KiCad Images Workflow](../../actions/workflows/use-export-kicad.yml/badge.svg)](../../actions/workflows/use-export-kicad.yml)
+
+---
 
 <div align="center">
-  
-[![Use Export KiCad Images Workflow](https://github.com/sonicavionics/4in-powersim/actions/workflows/use-export-kicad.yml/badge.svg)](https://github.com/sonicavionics/4in-powersim/actions/workflows/use-export-kicad.yml)
 
-![alt text](images/pcbf.svg)![alt text](images/pcbb.svg)  
-Footprint
+<img src="images/board.png" alt="3D Render" height="500"><br>
+<p><em>3D Render</em></p>
 
-![alt text](images/sch.svg)  
-Schematic
+<img src="images/sch.svg" alt="Schematic" height="500"><br>
+<p><em>Schematic</em></p>
 
-![alt text](images/board.png)  
-3D Render
+<img src="images/pcbf.svg" alt="Footprint Front" height="500">
+<img src="images/pcbb.svg" alt="Footprint Back" height="500"><br>
+<p><em>Footprint</em></p>
 
 </div>
-
-
