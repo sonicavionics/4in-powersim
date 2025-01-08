@@ -6,21 +6,21 @@
 
 <div align="center">
   <div>
-    <img src="images/board.front.png" alt="3D Render" height="500">
-    <img src="images/board.back.png" alt="3D Render" height="500">
+    <img src="images/board.front.png" alt="3D Render" style="height: auto; width: 400px;">
+    <img src="images/board.back.png" alt="3D Render" style="height: auto; width: 400px;">
     <p><em>3D Render</em></p>
   </div>
   <br>
 
   <div>
-    <img src="images/sch.svg" alt="Schematic" height="500"><br>
+    <img src="images/sch.svg" alt="Schematic" style="height: auto; max-width: 500px;"><br>
     <p><em>Schematic</em></p>
   </div>
   <br>
   
   <div>
-    <img src="images/pcbf.png" alt="Front" height="500">
-    <img src="images/pcbb.png" alt="Back" height="500"><br>
-    <em>Back</em>
+    <img src="images/pcbf.png" alt="Front" style="height: auto; width: 400px;">
+    <img src="images/pcbb.png" alt="Back" style="height: auto; width: 400px;"><br>
+    <em>Footprint</em>
   </div>
 </div>
