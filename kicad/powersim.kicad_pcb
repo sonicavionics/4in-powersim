@@ -178,66 +178,6 @@
 		(sheetfile "powersim.kicad_sch")
 		(attr through_hole dnp)
 		(fp_line
-			(start -1.33 -1.33)
-			(end 0 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "eb1de087-35b9-49e7-a6e2-f3fc84b19cc2")
-		)
-		(fp_line
-			(start -1.33 0)
-			(end -1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "69828760-07b4-4788-85ce-03a2cdbac619")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end -1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e8c53439-5e61-4ba2-b65e-5d4090cf8122")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end 1.33 1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "bd666f3f-f1db-49cd-81c9-2314062a1e78")
-		)
-		(fp_line
-			(start -1.33 1.33)
-			(end 1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "29ad626b-6f65-4600-ade1-e5563490fc6c")
-		)
-		(fp_line
-			(start 1.33 1.27)
-			(end 1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7dfcb8e5-83bc-4f56-ad56-1efb6becfd24")
-		)
-		(fp_line
 			(start -1.8 -1.8)
 			(end -1.8 1.8)
 			(stroke
@@ -528,26 +468,6 @@
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.14058 0.51)
-			(end 0.14058 0.51)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "44b87d3d-7248-4ca6-b44d-6f9d70d6a863")
-		)
-		(fp_line
-			(start -0.14058 -0.51)
-			(end 0.14058 -0.51)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "4de2d2f0-d275-4e13-9f66-27b587c9531a")
-		)
-		(fp_line
 			(start 1.48 0.73)
 			(end -1.48 0.73)
 			(stroke
@@ -834,26 +754,6 @@
 		(sheetname "Root")
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
-		(fp_line
-			(start -0.14058 0.51)
-			(end 0.14058 0.51)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "50b20dd5-b86a-4cbd-9ca1-0d014f948250")
-		)
-		(fp_line
-			(start -0.14058 -0.51)
-			(end 0.14058 -0.51)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "77c82131-3266-4d08-9dc4-2ba18b7efd86")
-		)
 		(fp_line
 			(start 1.48 0.73)
 			(end -1.48 0.73)
@@ -1987,26 +1887,6 @@
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.107836 -0.36)
-			(end 0.107836 -0.36)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "76c0c526-b6a8-4bfd-9a97-c973bfa0b8c4")
-		)
-		(fp_line
-			(start -0.107836 0.36)
-			(end 0.107836 0.36)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "9be91e06-b0de-4490-b10e-6ba24af808f7")
-		)
-		(fp_line
 			(start -0.91 -0.46)
 			(end 0.91 -0.46)
 			(stroke
@@ -2345,26 +2225,6 @@
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.153641 -0.38)
-			(end 0.153641 -0.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3a04d91e-bb87-4288-9618-179776982d5d")
-		)
-		(fp_line
-			(start -0.153641 0.38)
-			(end 0.153641 0.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3c90dcc3-cbc5-4db2-8d0e-c40f3ab232b9")
-		)
-		(fp_line
 			(start 0.93 -0.47)
 			(end 0.93 0.47)
 			(stroke
@@ -2559,66 +2419,6 @@
 		(sheetname "Root")
 		(sheetfile "powersim.kicad_sch")
 		(attr through_hole dnp)
-		(fp_line
-			(start -1.33 -1.33)
-			(end 0 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "23bda9b8-6121-48e0-914b-78f9968301c0")
-		)
-		(fp_line
-			(start -1.33 0)
-			(end -1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ebf27e7b-b985-47bf-8938-b6ba03ea57e4")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end -1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ba147721-8d01-4b2b-b152-e534f94aca31")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end 1.33 1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "bd26b7dc-6f01-4507-bef9-10aded927e4b")
-		)
-		(fp_line
-			(start -1.33 1.33)
-			(end 1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "267fa9e9-ebc0-4915-af6c-accdaafa826e")
-		)
-		(fp_line
-			(start 1.33 1.27)
-			(end 1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "47bf77b8-6443-4d53-96bc-49d09397a0fe")
-		)
 		(fp_line
 			(start -1.8 -1.8)
 			(end -1.8 1.8)
@@ -2961,26 +2761,6 @@
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.153641 0.38)
-			(end 0.153641 0.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7fe5a1cf-7fe7-4893-b963-92d6910b06e5")
-		)
-		(fp_line
-			(start -0.153641 -0.38)
-			(end 0.153641 -0.38)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b3a25f62-c21e-41f3-9466-4b0369acaf99")
-		)
-		(fp_line
 			(start -0.93 0.47)
 			(end -0.93 -0.47)
 			(stroke
@@ -3318,26 +3098,6 @@
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start -0.237258 -0.5225)
-			(end 0.237258 -0.5225)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "cd3eb988-d626-4594-995c-8af2f1156851")
-		)
-		(fp_line
-			(start -0.237258 0.5225)
-			(end 0.237258 0.5225)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "97350e76-0d74-4b0f-a1cd-f551cadee4ca")
-		)
-		(fp_line
 			(start -1.48 -0.73)
 			(end 1.48 -0.73)
 			(stroke
@@ -3532,66 +3292,6 @@
 		(sheetname "Root")
 		(sheetfile "powersim.kicad_sch")
 		(attr through_hole dnp)
-		(fp_line
-			(start -1.33 -1.33)
-			(end 0 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "14ccc6d7-2015-41f8-9eb3-9a46af4c4092")
-		)
-		(fp_line
-			(start -1.33 0)
-			(end -1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "84ddcd45-3118-43cb-a928-f2b3b76f7437")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end -1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "02295563-4b93-45e9-b560-0c031b1623e8")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end 1.33 1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "afdf1415-2b7f-4ef5-a0b0-82fc17e9a1e9")
-		)
-		(fp_line
-			(start -1.33 1.33)
-			(end 1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "edc78b34-a9b7-4cf8-af40-f10e3bf863a8")
-		)
-		(fp_line
-			(start 1.33 1.27)
-			(end 1.33 1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "523963e4-27f1-4316-a4d1-e084b2dc1f2b")
-		)
 		(fp_line
 			(start -1.8 -1.8)
 			(end -1.8 1.8)
@@ -3879,46 +3579,6 @@
 		(sheetname "Root")
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
-		(fp_line
-			(start 0 -1.56)
-			(end 0.8 -1.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7b43e475-8da5-4a19-b868-1e2badc1e3c7")
-		)
-		(fp_line
-			(start 0 -1.56)
-			(end -0.8 -1.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "1b9bf525-fac8-4945-b1ee-20d8e5a06e09")
-		)
-		(fp_line
-			(start 0 1.56)
-			(end 0.8 1.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "38545c87-342e-4f74-9291-abc458bb6c16")
-		)
-		(fp_line
-			(start 0 1.56)
-			(end -0.8 1.56)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "f5d36a86-755f-4cbf-a65f-ba91b528af5f")
-		)
 		(fp_poly
 			(pts
 				(xy -1.3 -1.51) (xy -1.54 -1.84) (xy -1.06 -1.84) (xy -1.3 -1.51)
@@ -4179,66 +3839,6 @@
 		(sheetname "Root")
 		(sheetfile "powersim.kicad_sch")
 		(attr through_hole dnp)
-		(fp_line
-			(start -1.33 -1.33)
-			(end 0 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "9107ce77-5b0a-4135-95aa-5c17343f9d22")
-		)
-		(fp_line
-			(start -1.33 0)
-			(end -1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "18b8f316-d63d-463b-9862-317cbbf66aa1")
-		)
-		(fp_line
-			(start 1.33 1.27)
-			(end 1.33 3.87)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b59c8917-a8a0-4547-9a0d-433243ef445e")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end 1.33 1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7c020032-22c3-4fda-9525-525b40356c40")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end -1.33 3.87)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e3472147-2fea-465d-a63d-55224874e42d")
-		)
-		(fp_line
-			(start -1.33 3.87)
-			(end 1.33 3.87)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7db49910-49f4-483b-9a8c-8d496a3f2926")
-		)
 		(fp_line
 			(start 1.8 -1.8)
 			(end -1.8 -1.8)
@@ -5040,66 +4640,6 @@
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
 		(fp_line
-			(start 3.5 -3.5)
-			(end 3.5 -1.42)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b3f05c7e-cee6-4733-9634-8677ea537bd4")
-		)
-		(fp_line
-			(start -3.5 -3.5)
-			(end 3.5 -3.5)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "12d7e406-9797-4928-9ab1-72b1e2be1f95")
-		)
-		(fp_line
-			(start -3.5 -3.5)
-			(end -3.5 -1.42)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "281f44ef-3151-4552-85fe-91c2feb8cffd")
-		)
-		(fp_line
-			(start 3.5 3.5)
-			(end 3.5 1.42)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "fa14b913-70c5-4d4c-b8aa-784b80584944")
-		)
-		(fp_line
-			(start -3.5 3.5)
-			(end -3.5 1.42)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "aab1ccce-10e7-4487-ac33-b40b30a62f63")
-		)
-		(fp_line
-			(start -3.5 3.5)
-			(end 3.5 3.5)
-			(stroke
-				(width 0.127)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "6cc65f05-76fe-4fbe-9e8c-31131123d657")
-		)
-		(fp_line
 			(start 4.15 -3.75)
 			(end -4.15 -3.75)
 			(stroke
@@ -5374,26 +4914,6 @@
 		(sheetname "Root")
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
-		(fp_line
-			(start -0.107836 0.36)
-			(end 0.107836 0.36)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "66aeac74-04bf-4d0b-b44b-01ee913ed662")
-		)
-		(fp_line
-			(start -0.107836 -0.36)
-			(end 0.107836 -0.36)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3bdce667-2542-427c-ac50-e18714fed025")
-		)
 		(fp_line
 			(start 0.91 0.46)
 			(end -0.91 0.46)
@@ -5732,26 +5252,6 @@
 		(sheetname "Root")
 		(sheetfile "powersim.kicad_sch")
 		(attr smd)
-		(fp_line
-			(start -0.237258 0.5225)
-			(end 0.237258 0.5225)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "b384c94f-d5a6-4d54-ab12-2af81e625829")
-		)
-		(fp_line
-			(start -0.237258 -0.5225)
-			(end 0.237258 -0.5225)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "8b10d740-a7fb-4114-98e7-f23ef56740ca")
-		)
 		(fp_line
 			(start 1.48 0.73)
 			(end -1.48 0.73)
@@ -6835,6 +6335,7 @@
 	(gr_line
 		(start 176.761588 122.419976)
 		(end 176.761588 110.582785)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6845,6 +6346,7 @@
 	(gr_line
 		(start 160.46283 63.542634)
 		(end 163.828722 69.195595)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6856,6 +6358,7 @@
 		(pts
 			(xy 116.064072 110.582785) (xy 116.064072 102.168691) (xy 110.08283 102.09411) (xy 110.08283 97.349976)
 		)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6866,6 +6369,7 @@
 	(gr_circle
 		(center 186.869858 82.98983)
 		(end 190.219858 82.98983)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6877,6 +6381,7 @@
 	(gr_line
 		(start 176.761588 122.419976)
 		(end 188.391588 122.419976)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6887,6 +6392,7 @@
 	(gr_line
 		(start 132.36283 55.589976)
 		(end 132.36283 63.542634)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6898,6 +6404,7 @@
 		(start 169.093841 72.428299)
 		(mid 166.06306 71.460529)
 		(end 163.828722 69.195595)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6909,6 +6416,7 @@
 		(start 128.996938 69.195595)
 		(mid 126.762593 71.460521)
 		(end 123.731819 72.428299)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6919,6 +6427,7 @@
 	(gr_line
 		(start 160.46283 63.542634)
 		(end 160.46283 55.589976)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6930,6 +6439,7 @@
 		(pts
 			(xy 175.191636 75.176812) (xy 173.874457 73.386186) (xy 171.841859 72.470015) (xy 169.093841 72.428299)
 		)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6941,6 +6451,7 @@
 		(pts
 			(xy 117.634024 75.176812) (xy 118.951203 73.386186) (xy 120.983801 72.470015) (xy 123.731819 72.428299)
 		)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6951,6 +6462,7 @@
 	(gr_line
 		(start 116.064072 122.419976)
 		(end 116.064072 110.582785)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6962,6 +6474,7 @@
 		(pts
 			(xy 176.761588 110.582785) (xy 176.761588 102.168691) (xy 182.74283 102.09411) (xy 182.74283 97.349976)
 		)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6972,6 +6485,7 @@
 	(gr_circle
 		(center 123.2831 65.793456)
 		(end 126.6331 65.793456)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6984,6 +6498,7 @@
 		(start 104.434072 122.419976)
 		(mid 146.41283 48.454976)
 		(end 188.391588 122.419976)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -6994,6 +6509,7 @@
 	(gr_line
 		(start 116.064072 122.419976)
 		(end 104.434072 122.419976)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7005,6 +6521,7 @@
 		(start 175.191636 75.176812)
 		(mid 180.803257 85.638126)
 		(end 182.74283 97.349976)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7016,6 +6533,7 @@
 		(start 110.08283 97.349976)
 		(mid 112.022403 85.638126)
 		(end 117.634024 75.176812)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7026,6 +6544,7 @@
 	(gr_line
 		(start 132.36283 63.542634)
 		(end 128.996938 69.195595)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7036,6 +6555,7 @@
 	(gr_circle
 		(center 105.955802 82.98983)
 		(end 109.305802 82.98983)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7047,6 +6567,7 @@
 	(gr_line
 		(start 132.36283 55.589976)
 		(end 160.46283 55.589976)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7057,6 +6578,7 @@
 	(gr_circle
 		(center 109.412355 110.068595)
 		(end 112.762355 110.068595)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7068,6 +6590,7 @@
 	(gr_circle
 		(center 169.54256 65.793456)
 		(end 172.89256 65.793456)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7079,6 +6602,7 @@
 	(gr_circle
 		(center 183.413305 110.068595)
 		(end 186.763305 110.068595)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7090,6 +6614,7 @@
 	(gr_line
 		(start 118.464529 64.282339)
 		(end 104.593785 108.557478)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7100,6 +6625,7 @@
 	(gr_line
 		(start 133.14799 68.834133)
 		(end 126.942317 62.311255)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7111,6 +6637,7 @@
 		(start 157.070952 69.144862)
 		(mid 156.717428 68.998403)
 		(end 156.570952 68.644862)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7122,6 +6649,7 @@
 		(start 106.210207 113.971788)
 		(mid 104.57385 111.511867)
 		(end 104.593785 108.557478)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7133,6 +6661,7 @@
 		(start 118.464529 64.282339)
 		(mid 122.139956 60.87328)
 		(end 126.942317 62.311255)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7143,6 +6672,7 @@
 	(gr_line
 		(start 159.678621 68.834133)
 		(end 165.884293 62.311255)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7153,6 +6683,7 @@
 	(gr_line
 		(start 158.954117 69.144862)
 		(end 157.070952 69.144862)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7164,6 +6695,7 @@
 		(start 177.714704 121.27317)
 		(mid 176.212727 122.123624)
 		(end 174.512081 122.418595)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7174,6 +6706,7 @@
 	(gr_circle
 		(center 183.41378 110.067214)
 		(end 180.06378 110.067214)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7186,6 +6719,7 @@
 		(start 188.232825 108.557478)
 		(mid 188.252725 111.511859)
 		(end 186.616403 113.971788)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7196,6 +6730,7 @@
 	(gr_circle
 		(center 169.543036 65.792075)
 		(end 166.193036 65.792075)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7207,6 +6742,7 @@
 	(gr_line
 		(start 174.512081 122.418595)
 		(end 118.314529 122.418595)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7218,6 +6754,7 @@
 		(start 118.314529 122.418595)
 		(mid 116.613891 122.123609)
 		(end 115.111906 121.27317)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7228,6 +6765,7 @@
 	(gr_circle
 		(center 123.283575 65.792075)
 		(end 119.933575 65.792075)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7239,6 +6777,7 @@
 	(gr_circle
 		(center 109.41283 110.067214)
 		(end 106.06283 110.067214)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7251,6 +6790,7 @@
 		(start 133.872493 69.144862)
 		(mid 133.478329 69.063905)
 		(end 133.14799 68.834133)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7261,6 +6801,7 @@
 	(gr_line
 		(start 186.616403 113.971788)
 		(end 177.714704 121.27317)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7272,6 +6813,7 @@
 		(start 159.678621 68.834133)
 		(mid 159.348285 69.063922)
 		(end 158.954117 69.144862)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7282,6 +6824,7 @@
 	(gr_line
 		(start 106.210207 113.971788)
 		(end 115.111906 121.27317)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7293,6 +6836,7 @@
 		(start 136.255658 68.644862)
 		(mid 136.109222 68.998429)
 		(end 135.755658 69.144862)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7303,6 +6847,7 @@
 	(gr_line
 		(start 174.362081 64.282339)
 		(end 188.232825 108.557478)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7313,6 +6858,7 @@
 	(gr_line
 		(start 133.872493 69.144862)
 		(end 135.755658 69.144862)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7324,6 +6870,7 @@
 		(start 165.884293 62.311255)
 		(mid 170.68666 60.873267)
 		(end 174.362081 64.282339)
+		(locked yes)
 		(stroke
 			(width 0.25)
 			(type default)
@@ -7344,10 +6891,23 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "+BAT"
+	(gr_text "+VBAT"
 		(at 152.811699 76.263155 0)
 		(layer "F.SilkS")
 		(uuid "55582b92-e299-4c63-bcf9-95ca0c36533e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "H"
+		(at 135.995368 77.413627 0)
+		(layer "F.SilkS")
+		(uuid "58e5c88b-649c-4219-8428-5980717fc384")
 		(effects
 			(font
 				(size 1 1)
@@ -7365,6 +6925,19 @@
 			(font
 				(size 1.5 1.5)
 				(thickness 0.3)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "L"
+		(at 138.810245 77.369645 0)
+		(layer "F.SilkS")
+		(uuid "a45e89a8-6cb8-4d09-8a4a-f8feb3c03b1c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.2)
 				(bold yes)
 			)
 			(justify left bottom)
