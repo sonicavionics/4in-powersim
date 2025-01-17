@@ -6008,8 +6008,8 @@
 			)
 		)
 		(pad "A1" connect rect
-			(at 0 0.55)
-			(size 0.7 3.2)
+			(at 0 0)
+			(size 0.7 4.3)
 			(layers "F.Cu" "F.Mask")
 			(net 16 "CANP")
 			(pinfunction "~{PRSNT1}")
@@ -6314,8 +6314,8 @@
 			(uuid "91745071-adc6-4a95-af95-6ac483b88c71")
 		)
 		(pad "B17" connect rect
-			(at 18 0.55)
-			(size 0.7 3.2)
+			(at 18 0)
+			(size 0.7 4.3)
 			(layers "B.Cu" "B.Mask")
 			(net 21 "+BAT")
 			(pinfunction "~{PRSNT2}")
